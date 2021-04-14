@@ -17,3 +17,4 @@ else:
     m = (duration % 3600) // 60
     s = duration % 60
     print(d, 'дн', h, 'час', m, 'мин', s, 'сек')
+    
